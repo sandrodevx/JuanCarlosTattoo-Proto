@@ -4,7 +4,7 @@ Copy
 
 **Sitio web profesional** para Juan Carlos, tatuador especializado en diseños personalizados. Desarrollado con Bootstrap 5, CSS3 y JavaScript.
 
-![Preview de la web](img/screenshot.jpg) *(Reemplaza con una captura real)*
+
 
 ## ✨ Características
 
