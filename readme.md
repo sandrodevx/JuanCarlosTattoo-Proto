@@ -1,9 +1,9 @@
-markdown
-Copy
+
 # 🎨 JC Tattoo - Página Web para Artista Tatuador
 
 **Sitio web profesional** para Juan Carlos, tatuador especializado en diseños personalizados. Desarrollado con Bootstrap 5, CSS3 y JavaScript.
 
+[View Live Page](https://sandrodevx.github.io/JuanCarlosTattoo-Proto/)
 
 
 ## ✨ Características
